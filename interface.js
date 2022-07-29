@@ -21,7 +21,7 @@ function handleClick(event) {
    
     setTimeout(()=>{
         if(playerTime == 0){
-            playerTime = `Abroba`
+            playerTime = `Abóboba`
         }else  {
             playerTime = "Caveira"
         }  
